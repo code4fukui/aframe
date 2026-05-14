@@ -9,3 +9,7 @@ karma.conf.js
 node_modules
 npm-debug.log*
 package-lock.json
+
+# meta-ops cleanup
+Thumbs.db
+node_modules/
